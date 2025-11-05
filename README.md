@@ -5,9 +5,9 @@ This report explores two multimodal TensorFlow models to determine whether a giv
 The dataset consists of train, validation, and test datasets. Each dataset consists of two components: a CSV file with three columns, one for the image ID (the names of the image files), one for the caption, and one for the label, and a folder containing the images. The test dataset does not include the label.
 
 | Image | Caption | Label |
-|:----------:|:------------------:|:------------------:|
-| ![Image](images/dashboard.png) |  |  |
-| ![Image](images/dashboard.png) |  |  |
+|:------------------:|:----------:|:----------:|
+| ![Image](394330.jpg) | Wet elephants shake water onto people bathing them. | 0 |
+| ![Image](68788.jpg) | A fruit stand has various fruits on the table. | 1 |
 
 
 ### Approach
